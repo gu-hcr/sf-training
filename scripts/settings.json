@@ -1,0 +1,13 @@
+{
+	"config": {
+		"theme": {
+			"currentTheme": "hs-trainingTheme",
+			"themes": [
+				"defaultTheme",
+				"hs-trainingTheme"
+			],
+			"baseTheme": "hs-trainingTheme"
+		},
+		"version": "6.8.2"
+	}
+}
